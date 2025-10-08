@@ -1,0 +1,88 @@
+/* =======================================================
+   Purdue IEEE EMBS Custom Theme
+   ======================================================= */
+
+@import "just-the-docs";
+
+:root {
+  /* --- IEEE EMBS primary palette --- */
+  --embs-purple: #6f2dbd;
+  --embs-pink: #c33ba0;
+  --embs-blue: #32c0d8;
+  --embs-white: #ffffff;
+  --purdue-gold: #cfb991;
+
+  /* --- UI base --- */
+  --body-background: #0f0f14;
+  --body-text-color: var(--embs-white);
+  --link-color: var(--embs-pink);
+  --link-hover-color: var(--embs-blue);
+  --accent-color: var(--purdue-gold);
+
+  /* --- Sidebar + Nav --- */
+  --sidebar-bg-color: #1a1a23;
+  --sidebar-border-color: var(--embs-purple);
+  --nav-text-color: var(--embs-white);
+  --nav-hover-color: var(--embs-blue);
+
+  /* --- Top Bar --- */
+  --top-bar-height: 3.2rem;
+  --top-bar-bg: var(--embs-pink);
+}
+
+/* Accent strip like GP2040-CE */
+.site-header {
+  background: var(--top-bar-bg);
+  height: var(--top-bar-height);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 600;
+  color: white;
+  letter-spacing: 0.5px;
+}
+
+/* Hero section for homepage */
+.hero {
+  background: linear-gradient(135deg, var(--embs-purple), var(--embs-blue));
+  color: white;
+  text-align: center;
+  padding: 5rem 1rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 25px rgba(0, 0, 0, 0.4);
+}
+
+.hero h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 0.75rem;
+}
+
+.hero p {
+  font-size: 1.2rem;
+  margin-bottom: 1.5rem;
+}
+
+.hero a.button {
+  background: var(--embs-pink);
+  color: white;
+  padding: 0.75rem 1.5rem;
+  border-radius: 30px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: background 0.25s;
+}
+
+.hero a.button:hover {
+  background: var(--embs-blue);
+}
+
+/* Sidebar + link hover tweaks */
+.nav-list a:hover {
+  color: var(--embs-blue);
+}
+
+/* Section headings */
+h1, h2, h3 {
+  color: var(--purdue-gold);
+}

@@ -114,3 +114,9 @@ defaults:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+sass:
+  style: compressed
+  load_paths:
+    - _sass
+    - assets/css
