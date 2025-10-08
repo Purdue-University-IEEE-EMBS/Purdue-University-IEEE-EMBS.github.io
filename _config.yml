@@ -86,6 +86,11 @@ nav_external_links:
     url: "https://calendar.google.com/calendar/embed?src=YOUR_CALENDAR_LINK"
     hide_icon: false
 
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:path/
+
 # Main navigation (left sidebar)
 just_the_docs:
   aux_links:
