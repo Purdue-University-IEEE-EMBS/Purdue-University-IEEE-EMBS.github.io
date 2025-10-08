@@ -18,21 +18,21 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+#title: Your awesome title
+#email: your-email@example.com
+#description: >- # this means to ignore newlines until "baseurl:"
+ # Write an awesome description for your new site here. You can edit this
+ # line in _config.yml. It will appear in your document head meta (for
+ # Google search results) and in your feed.xml site description.
+#baseurl: "" # the subpath of your site, e.g. /blog
+#url: "" # the base hostname & protocol for your site, e.g. http://example.com
+#twitter_username: jekyllrb
+#github_username:  jekyll
 
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+#theme: minima
+#plugins:
+  #- jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -53,3 +53,64 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# =====================================================
+# Purdue IEEE EMBS Website Configuration
+# =====================================================
+
+title: Purdue IEEE EMBS
+email: ieeeembs@purdue.edu
+description: >
+  Purdue University's student chapter of the IEEE Engineering in Medicine and Biology Society.
+  We develop biomedical devices, conduct research, and connect engineers passionate about medicine and health technology.
+baseurl: "" # keep empty for organization site
+url: "https://purdue-university-ieee-embs.github.io"
+
+# Socials / metadata
+github_username: Purdue-University-IEEE-EMBS
+instagram_username: purdueembs
+linkedin_username: purdue-ieee-embs
+
+# =====================================================
+# THEME SETTINGS
+# =====================================================
+theme: just-the-docs
+color_scheme: dark
+
+# =====================================================
+# NAVIGATION STRUCTURE
+# =====================================================
+nav_order: 1
+nav_external_links:
+  - title: "📅 Google Calendar"
+    url: "https://calendar.google.com/calendar/embed?src=YOUR_CALENDAR_LINK"
+    hide_icon: false
+
+# Main navigation (left sidebar)
+just_the_docs:
+  aux_links:
+    "Join IEEE EMBS":
+      - "https://www.ieee.org/membership/join"
+  collections:
+    docs:
+      name: "Pages"
+      nav_exclude: false
+      search_exclude: false
+
+# =====================================================
+# DEFAULT SETTINGS FOR PAGES
+# =====================================================
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+      nav_order: 1
+      has_children: false
+
+# =====================================================
+# PLUGINS
+# =====================================================
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
