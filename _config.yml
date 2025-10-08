@@ -82,8 +82,8 @@ color_scheme: light
 # =====================================================
 nav_order: 1
 nav_external_links:
-  - title: "📅 Google Calendar"
-    url: "https://calendar.google.com/calendar/embed?src=YOUR_CALENDAR_LINK"
+  - title: "Google Calendar"
+    url: "https://calendar.google.com/calendar/embed?src=180c9db3d3733418bbc3a5c8aea0a7369f1295cf5f9b193d370384a0c5337115%40group.calendar.google.com&ctz=America%2FIndiana%2FIndianapolis"
     hide_icon: false
 
 collections:
