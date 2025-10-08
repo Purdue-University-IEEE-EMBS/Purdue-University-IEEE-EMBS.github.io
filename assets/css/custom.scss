@@ -12,22 +12,23 @@
   --embs-white: #ffffff;
   --purdue-gold: #cfb991;
 
-  /* --- UI base --- */
-  --body-background: #0f0f14;
-  --body-text-color: var(--embs-white);
+  /* --- UI base (light background) --- */
+  --body-background: #ffffff;
+  --body-text-color: #1a1a23;
   --link-color: var(--embs-pink);
   --link-hover-color: var(--embs-blue);
   --accent-color: var(--purdue-gold);
 
   /* --- Sidebar + Nav --- */
-  --sidebar-bg-color: #1a1a23;
+  --sidebar-bg-color: #f9f9fb;
   --sidebar-border-color: var(--embs-purple);
-  --nav-text-color: var(--embs-white);
-  --nav-hover-color: var(--embs-blue);
+  --nav-text-color: var(--embs-black);
+  --nav-hover-color: var(--embs-pink);
 
   /* --- Top Bar --- */
   --top-bar-height: 3.2rem;
   --top-bar-bg: var(--embs-pink);
+  --top-bar-text: #ffffff;
 }
 
 /* Accent strip like GP2040-CE */
@@ -38,7 +39,7 @@
   align-items: center;
   justify-content: center;
   font-weight: 600;
-  color: white;
+  color: var(--top-bar-text);
   letter-spacing: 0.5px;
 }
 
@@ -49,7 +50,7 @@
   text-align: center;
   padding: 5rem 1rem;
   border-radius: 12px;
-  box-shadow: 0 4px 25px rgba(0, 0, 0, 0.4);
+  box-shadow: 0 4px 25px rgba(0, 0, 0, 0.2);
 }
 
 .hero h1 {
@@ -83,6 +84,8 @@
 }
 
 /* Section headings */
-h1, h2, h3 {
-  color: var(--purdue-gold);
+h1,
+h2,
+h3 {
+  color: var(--embs-purple);
 }
