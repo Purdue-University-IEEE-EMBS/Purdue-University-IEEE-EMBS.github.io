@@ -125,3 +125,6 @@ sass:
   load_paths:
     - _sass
     - assets/css
+
+include:
+  - _includes

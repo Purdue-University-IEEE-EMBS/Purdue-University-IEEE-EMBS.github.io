@@ -1,0 +1,53 @@
+<!-- Custom Social Icons in Header -->
+<style>
+.header-icons {
+  position: absolute;
+  right: 20px;
+  top: 10px;
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  z-index: 1000;
+}
+
+.header-icons a {
+  color: #111;
+  text-decoration: none;
+  font-size: 20px;
+  transition: color 0.2s ease-in-out;
+}
+
+.header-icons a:hover {
+  color: #5A4FCF; /* Purdue EMBS accent */
+}
+
+@media (prefers-color-scheme: dark) {
+  .header-icons a {
+    color: #000000;
+  }
+  .header-icons a:hover {
+    color: #821a9c;
+  }
+}
+</style>
+
+<div class="header-icons">
+  <a href="https://instagram.com/purdueembs" target="_blank" title="Instagram">
+    <i class="fab fa-instagram"></i>
+  </a>
+  <a href="https://www.linkedin.com/search/results/all/?heroEntityKey=urn%3Ali%3Aorganization%3A90396790&keywords=Purdue%20IEEE%20EMBS&origin=ENTITY_SEARCH_HOME_HISTORY&sid=%3BVu" target="_blank" title="LinkedIn">
+    <i class="fab fa-linkedin"></i>
+  </a>
+  <a href="https://discord.com/invite/ZCmHRBjNZN" target="_blank" title="Discord">
+    <i class="fab fa-discord"></i>
+  </a>
+  <a href="https://github.com/purdue-university-ieee-embs" target="_blank" title="GitHub">
+    <i class="fab fa-github"></i>
+  </a>
+</div>
+
+<!-- Font Awesome -->
+<link
+  rel="stylesheet"
+  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+/>
