@@ -4,14 +4,74 @@ nav_order: 5
 ---
 
 # Leadership
-| Role | Name | Contact |
-|------|------|----------|
-| Chair | Mason Fleming | mason@purdue.edu |
-| Vice Chair | TBD |  |
-| Treasurer | TBD |  |
+
+<div style="display: flex; flex-wrap: wrap; gap: 2rem; justify-content: center;">
+
+<!-- Chair & Vice Chair -->
+<div style="display: flex; gap: 2rem; justify-content: center; flex-wrap: wrap; width: 100%;">
+
+  <div style="width: 250px; text-align: center;">
+    <img src="/assets/images/blank.webp" alt="Mason Fleming" width="150" style="border-radius: 10px;">
+    <h3>Mason Fleming</h3>
+    <p><strong>Chair</strong><br>
+    Computer Engineering, Senior<br>
+    <a href="mailto:fleminn@purdue.edu">fleminn@purdue.edu</a></p>
+  </div>
+
+  <div style="width: 250px; text-align: center;">
+    <img src="/assets/images/blank.webp" alt="Benjamin Dravis" width="150" style="border-radius: 10px;">
+    <h3>Benjamin Dravis</h3>
+    <p><strong>Vice Chair</strong><br>
+    Computer Science, Junior<br>
+    <a href="mailto:bdravis@purdue.edu">bdravis@purdue.edu</a></p>
+  </div>
+
+</div>
+
+<!-- Treasurer & Secretary -->
+<div style="display: flex; gap: 2rem; justify-content: center; flex-wrap: wrap; width: 100%;">
+
+  <div style="width: 250px; text-align: center;">
+    <img src="/assets/images/blank.webp" alt="Rayna Huang" width="150" style="border-radius: 10px;">
+    <h3>Rayna Huang</h3>
+    <p><strong>Treasurer</strong><br>
+    First-Year Engineering (Electrical), Freshman<br>
+    <a href="mailto:huan2351@purdue.edu">huan2351@purdue.edu</a></p>
+  </div>
+
+  <div style="width: 250px; text-align: center;">
+    <img src="/assets/images/blank.webp" alt="Katherine Pesetski" width="150" style="border-radius: 10px;">
+    <h3>Katherine Pesetski</h3>
+    <p><strong>Secretary</strong><br>
+    Electrical Engineering, Sophomore<br>
+    <a href="mailto:kpesetsk@purdue.edu">kpesetsk@purdue.edu</a></p>
+  </div>
+
+</div>
+
+<!-- Marketing & Outreach -->
+<div style="display: flex; gap: 2rem; justify-content: center; flex-wrap: wrap; width: 100%;">
+
+  <div style="width: 250px; text-align: center;">
+    <img src="/assets/images/blank.webp" alt="Joyoti Saha" width="150" style="border-radius: 10px;">
+    <h3>Joyoti Saha</h3>
+    <p><strong>Marketing & Engagement Chair</strong><br>
+    Biomedical Engineering, Sophomore<br>
+    <a href="mailto:saha98@purdue.edu">saha98@purdue.edu</a></p>
+  </div>
+
+  <div style="width: 250px; text-align: center;">
+    <img src="/assets/images/blank.webp" alt="Nikki Pudipeddi" width="150" style="border-radius: 10px;">
+    <h3>Nikki Pudipeddi</h3>
+    <p><strong>Outreach & Events Coordinator</strong><br>
+    Biomedical Engineering, Sophomore<br>
+    <a href="mailto:npudiped@purdue.edu">npudiped@purdue.edu</a></p>
+  </div>
+
+</div>
+
+</div>
 
 ---
-
-## Contact
-📧 Email: ieeeembs@purdue.edu  
-🌐 Website: [purdue-university-ieee-embs.github.io](https://purdue-university-ieee-embs.github.io)
+ 
+🌐 **Website:** [purdue-university-ieee-embs.github.io](https://purdue-university-ieee-embs.github.io)
