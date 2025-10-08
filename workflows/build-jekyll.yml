@@ -1,5 +1,5 @@
 name: Build and Deploy Jekyll site
-#<!-- rebuild trigger -->
+
 on:
   push:
     branches:
