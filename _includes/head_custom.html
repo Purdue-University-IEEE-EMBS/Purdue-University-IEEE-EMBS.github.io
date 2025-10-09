@@ -1,5 +1,43 @@
-<!-- Custom Social Icons in Header -->
+<!-- ======================================================
+     Purdue IEEE EMBS Custom Header
+     ====================================================== -->
+
+<!-- Custom Icons (Font Awesome) -->
+<link
+  rel="stylesheet"
+  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+/>
+
+<!-- Social Icons in Header -->
 <style>
+/* Force override of Just-the-Docs header */
+/* --- Header Base Style --- */
+/* --- Force header title text to white --- */
+header.site-header,
+div.site-header {
+  background-color: #ffffff !important; /* white background */
+  color: #000000 !important;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 1.5rem;
+  height: 3.2rem;
+  font-weight: 600;
+  position: relative;
+  z-index: 999;
+  border-bottom: 1px solid #e0e0e0; /* subtle bottom divider */
+}
+
+/* --- Header title text black --- */
+header.site-header .site-title,
+div.site-header .site-title,
+.site-title a,
+.site-title a:visited,
+.site-title a:hover {
+  color: #000000 !important;
+  text-decoration: none !important;
+}
+  
 .header-icons {
   position: absolute;
   right: 20px;
@@ -18,7 +56,7 @@
 }
 
 .header-icons a:hover {
-  color: #5A4FCF; /* Purdue EMBS accent */
+  color: #00629B; /* Purdue EMBS accent */
 }
 
 @media (prefers-color-scheme: dark) {
@@ -29,13 +67,55 @@
     color: #821a9c;
   }
 }
+
+.side-bar {
+  background-color: #f8f7fb !important; /* light subtle background */
+}
+
+/* Sidebar link text */
+.nav-list .nav-list-item .nav-list-link {
+  color: #821a9c !important; /* EMBS purple links */
+  font-weight: 500;
+}
+
+.nav-list .nav-list-item .nav-list-link:hover {
+  color: #00629B !important; /* EMBS blue hover */
+  background-color: #e8e6f3 !important;
+  border-radius: 6px;
+}
+
+/* Active page link */
+.nav-list .nav-list-item .nav-list-link.active {
+  color: #00629B !important; /* Blue for active link */
+  font-weight: 700;
+}
+
+/* Section titles in sidebar ("PAGES") */
+.nav-list .nav-list-item .nav-category-title {
+  color: #821a9c !important; /* Softer accent */
+}
+
+/* --- Responsive tweaks --- */
+@media (max-width: 768px) {
+  header.site-header,
+  div.site-header {
+    flex-direction: column;
+    text-align: center;
+    height: auto;
+    padding: 0.75rem 1rem;
+  }
+  .header-icons {
+    margin-top: 0.5rem;
+  }
+}
+
 </style>
 
 <div class="header-icons">
   <a href="https://instagram.com/purdueembs" target="_blank" title="Instagram">
     <i class="fab fa-instagram"></i>
   </a>
-  <a href="https://www.linkedin.com/search/results/all/?heroEntityKey=urn%3Ali%3Aorganization%3A90396790&keywords=Purdue%20IEEE%20EMBS&origin=ENTITY_SEARCH_HOME_HISTORY&sid=%3BVu" target="_blank" title="LinkedIn">
+  <a href="https://www.linkedin.com/company/purdue-ieee-embs/" target="_blank" title="LinkedIn">
     <i class="fab fa-linkedin"></i>
   </a>
   <a href="https://discord.com/invite/ZCmHRBjNZN" target="_blank" title="Discord">
@@ -46,8 +126,5 @@
   </a>
 </div>
 
-<!-- Font Awesome -->
-<link
-  rel="stylesheet"
-  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
-/>
+<!-- Load Custom Theme Overrides -->
+<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">

@@ -1,14 +1,14 @@
 /* =======================================================
    Purdue IEEE EMBS Custom Theme
-   ======================================================= */
+   ======================================================= 
 
 @import "just-the-docs";
-
+*/
 :root {
   /* --- IEEE EMBS primary palette --- */
-  --embs-purple: #6f2dbd;
+  --embs-purple: #821a9c;
   --embs-pink: #c33ba0;
-  --embs-blue: #1086e6;
+  --embs-blue: #00629B;
   --embs-white: #ffffff;
   --purdue-gold: #cfb991;
 
@@ -66,7 +66,7 @@
 
 .hero a.button {
   background: var(--embs-pink);
-  color: white;
+  color: var(--embs-blue);
   padding: 0.75rem 1.5rem;
   border-radius: 30px;
   font-weight: 600;

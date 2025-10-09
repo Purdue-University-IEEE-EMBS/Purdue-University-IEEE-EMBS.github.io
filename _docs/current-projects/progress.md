@@ -24,11 +24,11 @@ Each section lists the current focus and milestone status for **Research → Har
   font-size: 12px;
   line-height: 22px;
 }
-.bar-green { background-color: #4CAF50; }
-.bar-blue { background-color: #2196F3; }
-.bar-orange { background-color: #FF9800; }
-.bar-purple { background-color: #9C27B0; }
-.bar-red { background-color: #E91E63; }
+.bar-green { background-color: #00629B; }
+.bar-blue { background-color: #00629B; }
+.bar-orange { background-color: #00629B; }
+.bar-purple { background-color: #00629B; }
+.bar-red { background-color: #00629B; }
 .section { margin-bottom: 45px; }
 </style>
 
