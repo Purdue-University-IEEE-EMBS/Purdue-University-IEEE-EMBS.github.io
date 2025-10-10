@@ -18,7 +18,7 @@ Once you join, head to the **#start-here** channel for next steps.
 
 ---
 
-## Step 2: Pay Purdue IEEE Dues
+## Step 2: Pay Purdue IEEE Dues 
 To become an active member, you only need to pay **$10 Purdue IEEE Due**, but you can pay an additional $5 ($15 total) for an IEEE T-shirt.  
 You do **not** need to purchase full IEEE or EMBS international memberships.  
 After paying, you’ll be officially registered and eligible for EMBS participation.
