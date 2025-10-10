@@ -40,28 +40,42 @@ Each section lists the current focus and milestone status for **Research → Har
 
 <div class="progress-container"><div class="progress-bar bar-blue" style="width:50%;">Overall ≈ 50%</div></div>
 
-**Milestones**
-- Research / Biology: ✅ Complete  
-- Hardware: ✅ Complete  
-- CAD (Enclosures): 🟡 In Progress  
-- Firmware (Sensor + SD Logging): 🟡 In Progress  
-- AI/ML (Apnea Detection Model): 🔜 Planned  
-- Integration / Testing: 🟡 In Progress  
+### Milestones
+
+<table style="width:100%; border-collapse:collapse;">
+  <tr>
+    <th style="text-align:left;">Category</th>
+    <th style="text-align:left;">Status</th>
+  </tr>
+  <tr><td>Research / Biology</td><td><div style="background-color:#c6f6d5; padding:4px; border-radius:6px; text-align:center;">Complete</div></td></tr>
+  <tr><td>Hardware</td><td><div style="background-color:#c6f6d5; padding:4px; border-radius:6px; text-align:center;">Complete</div></td></tr>
+  <tr><td>CAD (Enclosures)</td><td><div style="background-color:#fff3b0; padding:4px; border-radius:6px; text-align:center;">In&nbsp;Progress</div></td></tr>
+  <tr><td>Firmware (Sensor + SD Logging)</td><td><div style="background-color:#fff3b0; padding:4px; border-radius:6px; text-align:center;">In&nbsp;Progress</div></td></tr>
+  <tr><td>AI/ML (Apnea Detection Model)</td><td><div style="background-color:#b3d9ff; padding:4px; border-radius:6px; text-align:center;">Planned</div></td></tr>
+  <tr><td>Integration / Testing</td><td><div style="background-color:#fff3b0; padding:4px; border-radius:6px; text-align:center;">In&nbsp;Progress</div></td></tr>
+</table>
 
 ---
 
-## 🌫 VOC Analyzer (Lung Cancer)
+## VOC Analyzer (Lung Cancer)
 **Focus:** Identify VOC biomarkers and design sensor chamber  
 **Status:** Research phase: hardware and firmware not yet started.
 
 <div class="progress-container"><div class="progress-bar bar-green" style="width:10%;">Overall ≈ 10%</div></div>
 
-**Milestones**
-- Research / Biology: 🟡 In Progress  
-- Hardware (Sensor Selection + Flow System): 🟡 In Progress  
-- CAD (Chamber + Mouthpieces): 🔜 Planned  
-- Firmware (Sensor Calibration + Data Logging): 🔜 Planned  
-- AI/ML (Multi-Sensor Fusion): 🔜 Planned  
+### Milestones
+
+<table style="width:100%; border-collapse:collapse;">
+  <tr>
+    <th style="text-align:left;">Category</th>
+    <th style="text-align:left;">Status</th>
+  </tr>
+  <tr><td>Research / Biology</td><td><div style="background-color:#fff3b0; padding:4px; border-radius:6px; text-align:center;">In&nbsp;Progress</div></td></tr>
+  <tr><td>Hardware (Sensor Selection + Flow System)</td><td><div style="background-color:#fff3b0; padding:4px; border-radius:6px; text-align:center;">In&nbsp;Progress</div></td></tr>
+  <tr><td>CAD (Chamber + Mouthpieces)</td><td><div style="background-color:#b3d9ff; padding:4px; border-radius:6px; text-align:center;">Planned</div></td></tr>
+  <tr><td>Firmware (Sensor Calibration + Data Logging)</td><td><div style="background-color:#b3d9ff; padding:4px; border-radius:6px; text-align:center;">Planned</div></td></tr>
+  <tr><td>AI/ML (Multi-Sensor Fusion)</td><td><div style="background-color:#b3d9ff; padding:4px; border-radius:6px; text-align:center;">Planned</div></td></tr>
+</table>
 
 ---
 
@@ -71,12 +85,19 @@ Each section lists the current focus and milestone status for **Research → Har
 
 <div class="progress-container"><div class="progress-bar bar-purple" style="width:40%;">Overall ≈ 40%</div></div>
 
-**Milestones**
-- Research / Biology: ✅ Complete  
-- Hardware (Sensors + Schematics): ✅ Complete  
-- CAD (Wristband + Visor Design): 🟡 In Progress  
-- Firmware (Multi-Sensor Data Collection): 🟡 In Progress  
-- AI/ML (Feature Extraction + Mock Testing): 🟡 In Progress  
+### Milestones
+
+<table style="width:100%; border-collapse:collapse;">
+  <tr>
+    <th style="text-align:left;">Category</th>
+    <th style="text-align:left;">Status</th>
+  </tr>
+  <tr><td>Research / Biology</td><td><div style="background-color:#c6f6d5; padding:4px; border-radius:6px; text-align:center;">Complete</div></td></tr>
+  <tr><td>Hardware (Sensors + Schematics)</td><td><div style="background-color:#c6f6d5; padding:4px; border-radius:6px; text-align:center;">Complete</div></td></tr>
+  <tr><td>CAD (Wristband + Visor Design)</td><td><div style="background-color:#fff3b0; padding:4px; border-radius:6px; text-align:center;">In&nbsp;Progress</div></td></tr>
+  <tr><td>Firmware (Multi-Sensor Data Collection)</td><td><div style="background-color:#fff3b0; padding:4px; border-radius:6px; text-align:center;">In&nbsp;Progress</div></td></tr>
+  <tr><td>AI/ML (Feature Extraction + Mock Testing)</td><td><div style="background-color:#fff3b0; padding:4px; border-radius:6px; text-align:center;">In&nbsp;Progress</div></td></tr>
+</table>
 
 ---
 
@@ -86,12 +107,19 @@ Each section lists the current focus and milestone status for **Research → Har
 
 <div class="progress-container"><div class="progress-bar bar-orange" style="width:15%;">Overall ≈ 15%</div></div>
 
-**Milestones**
-- Research / Biology: ✅ Complete  
-- Hardware (Optical / Sensor Prototype): 🟡 In Progress  
-- CAD (Camera Mount / Earbud Holder): 🔜 Planned  
-- Firmware (Signal Capture): 🔜 Planned  
-- AI/ML (Image + Signal Analysis): 🔜 Planned  
+### Milestones
+
+<table style="width:100%; border-collapse:collapse;">
+  <tr>
+    <th style="text-align:left;">Category</th>
+    <th style="text-align:left;">Status</th>
+  </tr>
+  <tr><td>Research / Biology</td><td><div style="background-color:#c6f6d5; padding:4px; border-radius:6px; text-align:center;">Complete</div></td></tr>
+  <tr><td>Hardware (Optical / Sensor Prototype)</td><td><div style="background-color:#fff3b0; padding:4px; border-radius:6px; text-align:center;">In&nbsp;Progress</div></td></tr>
+  <tr><td>CAD (Camera Mount / Earbud Holder)</td><td><div style="background-color:#b3d9ff; padding:4px; border-radius:6px; text-align:center;">Planned</div></td></tr>
+  <tr><td>Firmware (Signal Capture)</td><td><div style="background-color:#b3d9ff; padding:4px; border-radius:6px; text-align:center;">Planned</div></td></tr>
+  <tr><td>AI/ML (Image + Signal Analysis)</td><td><div style="background-color:#b3d9ff; padding:4px; border-radius:6px; text-align:center;">Planned</div></td></tr>
+</table>
 
 ---
 
@@ -101,23 +129,27 @@ Each section lists the current focus and milestone status for **Research → Har
 
 <div class="progress-container"><div class="progress-bar bar-red" style="width:5%;">Overall ≈ 5%</div></div>
 
-**Milestones**
-- Software (App UI + Translation API): 🟡 In Progress  
-- AI/ML (Whisper + GPT Integration): 🟡 In Progress  
-- Research (User Needs + Feedback): 🟡 In Progress  
-- CAD (Optional Device Housing): 🔜 Planned  
-- Project Management (Testing + Deployment): 🟡 In Progress  
+### Milestones
+
+<table style="width:100%; border-collapse:collapse;">
+  <tr>
+    <th style="text-align:left;">Category</th>
+    <th style="text-align:left;">Status</th>
+  </tr>
+  <tr><td>Software (App UI + Translation API)</td><td><div style="background-color:#fff3b0; padding:4px; border-radius:6px; text-align:center;">In&nbsp;Progress</div></td></tr>
+  <tr><td>AI/ML (Whisper + GPT Integration)</td><td><div style="background-color:#fff3b0; padding:4px; border-radius:6px; text-align:center;">In&nbsp;Progress</div></td></tr>
+  <tr><td>Research (User Needs + Feedback)</td><td><div style="background-color:#fff3b0; padding:4px; border-radius:6px; text-align:center;">In&nbsp;Progress</div></td></tr>
+  <tr><td>CAD (Optional Device Housing)</td><td><div style="background-color:#b3d9ff; padding:4px; border-radius:6px; text-align:center;">Planned</div></td></tr>
+  <tr><td>Project Management (Testing + Deployment)</td><td><div style="background-color:#fff3b0; padding:4px; border-radius:6px; text-align:center;">In&nbsp;Progress</div></td></tr>
+</table>
 
 ---
 
-## 📊 Overall EMBS Project Completion
+## Overall EMBS Project Completion
 Weighted estimate across active projects.
 
 <div class="progress-container"><div class="progress-bar bar-green" style="width:25%;">Overall ≈ 25%</div></div>
 
 ---
-
-✨ *Milestone labels:*  
-✅ = Complete  🟡 = In Progress  🔜 = Planned / Future Step  
 
 *Updated during weekly leadership meetings.*

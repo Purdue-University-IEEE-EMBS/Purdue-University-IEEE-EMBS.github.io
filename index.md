@@ -25,3 +25,4 @@ Our mission is to unite engineers and scientists passionate about medical techno
 - Develop medical device prototypes  
 - Host workshops and technical training  
 - Connect students with industry and research mentors 
+
