@@ -11,7 +11,7 @@ nav_order: 5
 <div style="display: flex; gap: 2rem; justify-content: center; flex-wrap: wrap; width: 100%;">
 
   <div style="width: 250px; text-align: center;">
-    <img src="/assets/images/blank.webp" alt="Mason Fleming" width="150" style="border-radius: 10px;">
+    <img src="/assets/images/mason.webp" alt="Mason Fleming" width="150" style="border-radius: 10px;">
     <h3>Mason Fleming</h3>
     <p><strong>Chair</strong><br>
     Computer Engineering, Senior<br>
@@ -19,7 +19,7 @@ nav_order: 5
   </div>
 
   <div style="width: 250px; text-align: center;">
-    <img src="/assets/images/blank.webp" alt="Benjamin Dravis" width="150" style="border-radius: 10px;">
+    <img src="/assets/images/ben.webp" alt="Benjamin Dravis" width="150" style="border-radius: 10px;">
     <h3>Benjamin Dravis</h3>
     <p><strong>Vice Chair</strong><br>
     Computer Science, Junior<br>
@@ -32,7 +32,7 @@ nav_order: 5
 <div style="display: flex; gap: 2rem; justify-content: center; flex-wrap: wrap; width: 100%;">
 
   <div style="width: 250px; text-align: center;">
-    <img src="/assets/images/blank.webp" alt="Rayna Huang" width="150" style="border-radius: 10px;">
+    <img src="/assets/images/rayna.webp" alt="Rayna Huang" width="150" style="border-radius: 10px;">
     <h3>Rayna Huang</h3>
     <p><strong>Treasurer</strong><br>
     First-Year Engineering (Electrical), Freshman<br>
@@ -53,7 +53,7 @@ nav_order: 5
 <div style="display: flex; gap: 2rem; justify-content: center; flex-wrap: wrap; width: 100%;">
 
   <div style="width: 250px; text-align: center;">
-    <img src="/assets/images/blank.webp" alt="Joyoti Saha" width="150" style="border-radius: 10px;">
+    <img src="/assets/images/joyoti.webp" alt="Joyoti Saha" width="150" style="border-radius: 10px;">
     <h3>Joyoti Saha</h3>
     <p><strong>Marketing & Engagement Chair</strong><br>
     Biomedical Engineering, Sophomore<br>

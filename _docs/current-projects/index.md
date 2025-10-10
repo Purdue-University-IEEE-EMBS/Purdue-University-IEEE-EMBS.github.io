@@ -12,4 +12,4 @@ Explore Purdue IEEE EMBS’s ongoing projects integrating **hardware, firmware, 
 
 ## Project Progress Dashboard
 Check out our real-time progress tracking page for all EMBS projects:  
-[**View Project Progress →**](./project-progress)
+[**View Project Progress →**]({{ site.baseurl }}/docs/current-projects/progress)
