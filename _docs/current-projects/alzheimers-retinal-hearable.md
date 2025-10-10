@@ -4,19 +4,23 @@ parent: Projects
 nav_order: 3
 ---
 
-# Alzheimer’s Retinal Scan / Hearable
+## Alzheimer’s Retinal Scan / Hearable
 
-**Goal:** Create dual-mode tools for early Alzheimer’s detection through retinal imaging and in-ear biosensing.
+**Goal:**  
+Create a dual-function diagnostic platform using **retinal imaging and in-ear biosensing** to screen for Alzheimer’s disease non-invasively.
 
-## Summary
-This project has two branches.  
-The **retinal scanner** uses a +20 D fundus lens and Pi NoIR camera to image retinal biomarkers under IR light.  
-The **hearable module** embeds EEG/PPG sensors (MAX30102) in a soft earbud to capture neural and circulatory signals.  
-Both systems connect to a shared smartphone app for AI analysis, providing portable, non-invasive screening.
+**Impact:**  
+Alzheimer’s diagnosis typically requires costly brain imaging or post-symptom cognitive testing. This project combines **ophthalmic imaging** and **hearable biosensors** to detect neural and vascular biomarkers through the eye and ear — two of the body’s most accessible diagnostic windows. The innovation lies in pairing low-cost hardware with smartphone AI models to deliver **clinic-level insights anywhere**, helping detect disease years before memory loss begins. 
 
-## Roles
-- **Hardware:** Assemble LED illumination circuits, integrate sensors (EEG/PPG), and configure Pi/Arduino systems.  
-- **Firmware:** Handle camera capture, signal amplification, and BLE data transfer.  
-- **AI/ML:** Train models to detect retinal or in-ear signal changes correlated with cognitive decline.  
-- **Research/Biology:** Validate biomarkers and interpret physiological meaning of anomalies.  
-- **CAD/Design:** Build custom housings for the earbud and optical adapter.
+**General Parts & Functionality:**  
+Uses an IR fundus camera for retinal scans or an earbud with EEG/PPG sensors for neural and blood-flow monitoring; data sent to a phone app for AI-driven analysis.
+
+**Roles Involved:**  
+- **Hardware:** Design optical imaging and in-ear sensor systems.  
+- **Firmware:** Capture and transmit multi-signal data to mobile interfaces.  
+- **AI/ML:** Train diagnostic models on retinal patterns and EEG features.  
+- **CAD Design:** Create compact, patient-friendly form factors.  
+- **Research/Biology:** Link retinal/EEG biomarkers to Alzheimer’s pathology.
+
+**Benefits:**  
+Makes **neurological screening affordable, portable, and preventive**, enabling annual home-based checkups that can revolutionize early dementia detection.

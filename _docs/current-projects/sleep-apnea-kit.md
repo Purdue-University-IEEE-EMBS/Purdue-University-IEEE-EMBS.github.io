@@ -4,19 +4,23 @@ parent: Projects
 nav_order: 1
 ---
 
-# Sleep Apnea Kit
+## Sleep Apnea Kit
 
-**Goal:** Detect sleep apnea by monitoring oxygen levels, heart rate, breathing sounds, and brain activity during sleep.
+**Goal:**  
+Develop a portable, affordable system that continuously monitors blood oxygen, breathing patterns, heart rhythm, and brain activity during sleep to identify apnea episodes.
 
-## Summary
-This kit integrates sensors such as a **SpO₂ module** for oxygen and pulse, **ECG electrodes** for heart rhythm, a **microphone** for breathing patterns, and **EEG electrodes** to detect brain arousals.  
-An **Arduino Nano 33 BLE Sense** and **Raspberry Pi Pico W** coordinate data collection, while a **Real-Time Clock (RTC)** timestamps recordings overnight.  
-A **LiPo battery** powers the system, logging results to an SD card for review.  
-The final system synchronizes oxygen dips, heart rate changes, and EEG arousals to flag apnea events early.
+**Impact:**  
+Sleep apnea affects over **25 million adults in the U.S. alone**, yet most remain **undiagnosed** because traditional polysomnography tests cost hundreds of dollars per night and require specialized clinics. This project makes diagnosis **accessible at home**, allowing early detection that prevents chronic fatigue, heart disease, and cognitive decline. By combining four biosensing modes (SpO₂, ECG, EEG, and sound), this kit offers **near-clinical accuracy** at a fraction of the cost, empowering both clinicians and everyday users.
 
-## Roles
-- **Hardware:** Assemble biosensors (EEG, ECG, SpO₂), wire circuits, integrate amplifiers and RTCs.  
-- **Firmware:** Write code for data acquisition, synchronization, and SD card storage on Arduino/Pico.  
-- **AI/ML:** Preprocess biosignal data, identify apnea patterns from combined physiological signals.  
-- **Research/Biology:** Study physiological markers of sleep apnea and validate signal interpretation.  
-- **CAD/Design:** Design enclosures for the headband, finger clip, and electronics housing.
+**General Parts & Functionality:**  
+Integrates oxygen, heart rate, sound, and EEG sensors with a microcontroller that logs overnight data and timestamps all readings for analysis.
+
+**Roles Involved:**  
+- **Hardware:** Assemble biosensors and amplifier circuitry for clean signal capture.  
+- **Firmware:** Program synchronized data acquisition and storage routines.  
+- **AI/ML:** Train models to detect apnea patterns from signal correlations.  
+- **CAD Design:** Develop comfortable, durable headbands and clips.  
+- **Research/Biology:** Map biosignals to apnea severity and physiological response.
+
+**Benefits:**  
+Provides an **early-warning system** for respiratory disorders, expands healthcare to rural and low-income populations, and encourages preventive sleep health monitoring.

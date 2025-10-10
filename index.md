@@ -5,10 +5,12 @@ nav_order: 1
 ---
 
 <div class="hero">
-  <h1>Purdue IEEE EMBS</h1>
+  <h1 style="color: white;">Purdue IEEE EMBS</h1>
   <p>Engineering in Medicine and Biology Society<br>
   at Purdue University</p>
 </div>
+
+
 
 ---
 

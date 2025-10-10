@@ -4,17 +4,22 @@ parent: Projects
 nav_order: 5
 ---
 
-# Multilingual Healthcare Communication App
+## Multilingual Healthcare Communication App
 
-**Goal:** Break language barriers between patients and healthcare providers through real-time translation.
+**Goal:**  
+Build an AI-powered mobile app that **translates medical communication in real time**, breaking language barriers between patients and healthcare providers.
 
-## Summary
-A cross-platform mobile app uses **speech-to-text**, **translation APIs**, and **text-to-speech** to enable multilingual medical conversations.  
-The app securely logs transcripts and supports optional integration with mic and speaker hardware for a standalone translator device.  
-The long-term vision is a **medical-specific translation platform** for clinics and international health volunteers.
+**Impact:**  
+Millions of patients delay or avoid treatment because of language gaps that lead to misdiagnoses and fear. Hospitals often lack interpreters, and online translators fail in medical contexts. This app provides **instant, context-aware speech translation**, supporting over 100 languages through speech-to-text, translation, and text-to-speech modules.
 
-## Roles
-- **Software:** Develop Flutter/React front-end, integrate translation APIs, design UI/UX.  
-- **Firmware (optional):** Configure mic/speaker hardware for dedicated device operation.  
-- **AI/ML:** Fine-tune translation or speech models for healthcare-specific terms.  
-- **Research/Biology:** Curate medically relevant phrases and ensure clinical terminology accuracy.
+**General Parts & Functionality:**  
+Integrates mobile speech recognition, translation APIs, and text-to-speech systems, optionally paired with dedicated mic/speaker hardware for clinical use.
+
+**Roles Involved:**  
+- **Software/Frontend:** Create a clear, intuitive multilingual interface.  
+- **Backend:** Manage translation APIs, security, and data storage.  
+- **AI/ML:** Fine-tune models for accurate medical terminology.  
+- **Research/Biology:** Validate translation accuracy in clinical settings.
+
+**Benefits:**  
+Improves **global healthcare equity**, bridges cultural barriers, and ensures patients receive accurate care regardless of language — transforming how medicine communicates.
