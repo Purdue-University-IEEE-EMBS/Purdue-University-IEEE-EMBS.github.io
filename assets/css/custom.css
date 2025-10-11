@@ -101,3 +101,13 @@ h3 {
   color: var(--embs-purple);
 }
 
+.icon {
+    width: 1.5rem;
+    height: 1.5rem;
+    color: #821a9c;
+}
+
+a {
+    color: #00629B;
+    text-decoration: none;
+}
