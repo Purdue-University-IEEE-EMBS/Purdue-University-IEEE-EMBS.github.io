@@ -10,7 +10,7 @@ nav_order: 2
 Design a unified home monitoring system that captures **motion, speech, and eye-tracking data** to identify early symptoms of neurodegenerative diseases.
 
 **Impact:**  
-Alzheimer’s and Parkinson’s often go **undiagnosed for years**, until irreversible brain changes occur. Clinical detection relies on expensive imaging and specialist visits unavailable to many. This project aims to democratize neurological screening through a **$100 wearable device** capable of tracking tremors, gait, voice modulation, and eye behavior — key indicators of disease progression.
+Alzheimer’s and Parkinson’s often go **undiagnosed for years**, until irreversible brain changes occur. Clinical detection relies on expensive imaging and specialist visits unavailable to many. This project aims to democratize neurological screening through a **wearable device** capable of tracking tremors, gait, voice modulation, and eye behavior — key indicators of disease progression.
 
 **General Parts & Functionality:**  
 Combines a motion sensor (IMU), microphone, and IR camera to measure motor control, speech coherence, and pupil dynamics — all processed by a Raspberry Pi Zero for phone-based analysis.

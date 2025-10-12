@@ -10,7 +10,7 @@ nav_order: 5
 Build an AI-powered mobile app that **translates medical communication in real time**, breaking language barriers between patients and healthcare providers.
 
 **Impact:**  
-Millions of patients delay or avoid treatment because of language gaps that lead to misdiagnoses and fear. Hospitals often lack interpreters, and online translators fail in medical contexts. This app provides **instant, context-aware speech translation**, supporting over 100 languages through speech-to-text, translation, and text-to-speech modules.
+Millions of patients delay or avoid treatment because of language gaps that lead to misdiagnoses and fear. Hospitals often lack interpreters, and online translators fail in medical contexts. This app provides **instant, context-aware speech translation**, supporting over multiple languages through speech-to-text, translation, and text-to-speech modules.
 
 **General Parts & Functionality:**  
 Integrates mobile speech recognition, translation APIs, and text-to-speech systems, optionally paired with dedicated mic/speaker hardware for clinical use.
