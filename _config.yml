@@ -76,6 +76,7 @@ linkedin_username: purdue-ieee-embs
 # =====================================================
 theme: just-the-docs
 color_scheme: light
+logo: /assets/images/logo.webp
 
 # =====================================================
 # NAVIGATION STRUCTURE
