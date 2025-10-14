@@ -111,3 +111,10 @@ a {
     color: #00629B;
     text-decoration: none;
 }
+.custom-toc {
+  border: 2px solid var(--embs-purple);
+  border-radius: 10px;
+  padding: 15px;
+  background-color: var(--accent-color);
+  margin: 20px 0;
+}

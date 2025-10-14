@@ -1,6 +1,6 @@
 ---
 title: Leadership & Contacts
-nav_order: 5
+nav_order: 6
 ---
 
 # Leadership
