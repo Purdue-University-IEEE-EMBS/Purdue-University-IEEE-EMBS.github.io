@@ -58,7 +58,7 @@
 # Purdue IEEE EMBS Website Configuration
 # =====================================================
 #trying to get picture as header title
-title: Purdue IEEE EMBS #'<img src="{{ "/assets/images/logo.webp" | relative_url }}" alt="Purdue IEEE EMBS Logo" style="height:50px;vertical-align:middle;">'
+title: "Purdue IEEE EMBS" #'<img src="{{ "/assets/images/logo.webp" | relative_url }}" alt="Purdue IEEE EMBS Logo" style="height:50px;vertical-align:middle;">'
 email: ieeeembs@purdue.edu
 description: >
   Purdue University's student chapter of the IEEE Engineering in Medicine and Biology Society.
