@@ -28,7 +28,6 @@ All communication, information sharing, and project coordination will be happeni
     Join the EMBS Discord
   </a>
 </div>
-Once you join, head to the **#start-here** channel for next steps.
 
 ---
 
