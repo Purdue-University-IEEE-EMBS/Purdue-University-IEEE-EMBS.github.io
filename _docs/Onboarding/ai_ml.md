@@ -1,5 +1,5 @@
 ---
 title: AI/ML
-parent: EMBS Onboarding
+parent: Onboarding
 nav_order: 1
 ---

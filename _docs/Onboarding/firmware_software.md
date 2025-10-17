@@ -1,5 +1,5 @@
 ---
 title: Firmware/Softare
-parent: EMBS Onboarding
+parent: Onboarding
 nav_order: 1
 ---
