@@ -70,7 +70,7 @@ nav_order: 6
   </div>
 
   <div style="width: 250px; text-align: center;">
-    <img src="/assets/images/blank.webp" alt="Nikki Pudipeddi" 
+    <img src="/assets/images/nikki.webp" alt="Nikki Pudipeddi" 
          style="width: 150px; aspect-ratio: 4 / 5; object-fit: cover; border-radius: 10px;">
     <h3>Nikki Pudipeddi</h3>
     <p><strong>Outreach & Events Coordinator</strong><br>
