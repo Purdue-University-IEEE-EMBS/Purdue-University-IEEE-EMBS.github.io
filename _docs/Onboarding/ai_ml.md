@@ -95,7 +95,7 @@ Complete this [**knowledge check**](https://docs.google.com/forms/d/1vInHmMKSFMm
 This part of the guide walks you through installing TensorFlow Lite Micro on Arduino, reading EMG data from a uMyo BLE sensor, training a simple ML model in Python, and running that model back on the Arduino.
 
 **Create Your Working Folder**
-- Download and extract the master embs_ml_training folder and extract to location of your choosing
+- Download and extract the master [**embs_ml_training folder**](https://drive.google.com/drive/folders/1W38WlS7jkQersILVUn3qNbmc1ruTAO9t?usp=drive_link) and extract to location of your choosing
     - You’ll store all related files here: Arduino sketches, Python scripts, and EMG data.
 
 **Install TensorFlow Lite for Arduino**
