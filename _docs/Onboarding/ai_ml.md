@@ -148,8 +148,10 @@ This part of the guide walks you through installing TensorFlow Lite Micro on Ard
 
 
 **Set Up uMyo BLE EMG Sensor**
-- In Arduino IDE install uMyo_BLE library
+- In Arduino IDE, install uMyo_BLE library
 ![uMyo_BLE Library](/assets/images/uMyo_BLE-library.png)
+- In Arduino IDE, install ArduinoBLE library
+![arduinoBLE Library](/assets/images/arduino-ble.png)
 - Turn on the uMyo sensor (press the button until it flashes blue).
 - Open example: **File → Examples → uMyo_BLE → uMyo_Basic**
 - Open **Serial Monitor** and flex your muscle 
