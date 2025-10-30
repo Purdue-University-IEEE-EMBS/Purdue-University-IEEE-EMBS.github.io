@@ -8,13 +8,15 @@ Explore some of our student-led conference posters, journal submissions, and IEE
 
 ***
 
-### EMBS Conference Posters
+### **EMBS Conference Posters**
 <img src="/assets/images/photo_gallery/poster_presentation/PXL_20241016_181901094.jpg" alt="">
 <img src="/assets/images/photo_gallery/conference/conference_poster.jpg" alt="">
 
 ***
 
 ### **EMBS Published Reports**
+**Report On Predicting 7-day Average of COVID-19 Cases And The Positivity Rate**
+- A group of our members devised a method for predicting the 7-day average average of COVID-19 cases and the positivity rate using predictive analysis and deep learning models. Using PyTorch and scikit-learn, they took the data, normalized it, and then fed it to a LSTM neural network in order to predict results based on this data. To learn more about this solution, click the link below to pull up their report.
 
 <div style="text-align: center; margin: 20px 0;">
   <a href="{{ site.baseurl }}/assets/Public_Health_Informatics_Report.pdf" 
