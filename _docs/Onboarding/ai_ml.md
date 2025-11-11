@@ -171,7 +171,7 @@ This part of the guide walks you through installing TensorFlow Lite Micro on Ard
  
 **Collect EMG Data**
 - Paste the code from the embs_data_collection.ino file in the embs_ml_training folder into the sketch and upload.
-- Download [**CoolTerm](https://coolterm.en.lo4d.com/windows) (free serial monitor):
+- Download [**CoolTerm**](https://coolterm.en.lo4d.com/windows) (free serial monitor):
 ![CoolTerm](/assets/images/coolterm.png)
 - Close Arduino’s Serial Monitor (only one app can use the port).
 - Open CoolTerm → Options → Serial Port → choose the same COM port you have been using
@@ -207,7 +207,6 @@ This part of the guide walks you through installing TensorFlow Lite Micro on Ard
   <ul>
     <li><em>pip install tensorflow pandas scikit-learn numpy matplotlib</em></li>
     <li><em>pip install seaborn jupyter</em></li>
-    <li><em>emg_flex.txt</em></li>
   </ul>
 </div>
 
