@@ -12,15 +12,15 @@ As a part of this club, we try to connect students with labs and professors offe
 <div style="border: 2px solid #ccc; padding: 12px; border-radius: 8px; background-color: #f9f9f9;"> 
     <strong>Objective</strong> 
     <p> 
-        Develop a comprehensive understanding of how multimodal biosignals—such as blood oxygen saturation (SpO₂), respiratory rate, heart rhythm, and neural activity—correlate with sleep apnea events and their severity. The goal is to enable continuous, non-invasive detection and classification of sleep apnea episodes through wearable technology. 
+        Develop a comprehensive understanding of how multimodal biosignals, such as blood oxygen saturation (SpO₂), respiratory rate, heart rhythm, and neural activity, correlate with sleep apnea events and their severity. The goal is to enable continuous, non-invasive detection and classification of sleep apnea episodes through wearable technology. 
     </p> 
     <hr> 
     <strong>Rationale</strong> 
     <p> 
-        Sleep apnea is a common but underdiagnosed sleep disorder characterized by repeated interruptions in breathing during sleep. These episodes cause drops in oxygen levels, cardiovascular strain, and disrupted sleep cycles, contributing to conditions such as hypertension, arrhythmia, and cognitive impairment. Conventional diagnosis relies on overnight polysomnography (PSG) in clinical settings—an accurate but expensive, uncomfortable, and resource-intensive process. 
+        Sleep apnea is a common but underdiagnosed sleep disorder characterized by repeated interruptions in breathing during sleep. These episodes cause drops in oxygen levels, cardiovascular strain, and disrupted sleep cycles, contributing to conditions such as hypertension, arrhythmia, and cognitive impairment. Conventional diagnosis relies on an invasive overnight polysomnography (PSG) in clinical settings, an accurate but expensive, uncomfortable, and resource-intensive process. 
     </p> 
     <p> 
-        Advances in wearable biosensors now make it possible to capture high-resolution physiological data continuously in natural sleep environments. However, for this data to be clinically meaningful, it must be properly interpreted—linking sensor-derived signals to physiological markers of apnea severity, frequency, and recovery response. This project focuses on building that interpretive framework. 
+        Advances in wearable biosensors now make it possible to capture high-resolution physiological data continuously in natural sleep environments. However, for this data to be clinically meaningful, it must be properly interpreted, linking sensor-derived signals to physiological markers of apnea severity, frequency, and recovery response. This project focuses on building that interpretive framework. 
     </p> 
     <hr> 
     <strong>Research Questions</strong> 
@@ -43,7 +43,7 @@ As a part of this club, we try to connect students with labs and professors offe
                     Which biosignals or combinations thereof most accurately predict apnea severity (mild, moderate, severe) as classified by the apnea-hypopnea index (AHI)? 
                 </em></li> 
                 <li><em> 
-                    How can we quantify physiological stress or compensatory responses—such as elevated heart rate or delayed oxygen recovery—following apnea events? 
+                    How can we quantify physiological stress or compensatory responses, such as elevated heart rate or delayed oxygen recovery following apnea events? 
                 </em></li> 
             </ul> 
         </li> 
@@ -62,7 +62,7 @@ As a part of this club, we try to connect students with labs and professors offe
             <em>Device Validation and Real-World Application:</em> 
             <ul> 
                 <li><em> 
-                    How do wearable-derived data compare to clinical-grade PSG results under varying conditions and sleep environments? 
+                    How does wearable-derived data compare to clinical-grade PSG results under varying conditions and sleep environments? 
                 </em></li> 
                 <li><em> 
                     What sensor configurations and data fusion strategies yield reliable apnea detection without compromising comfort or signal quality? 
@@ -87,7 +87,7 @@ As a part of this club, we try to connect students with labs and professors offe
 <div style="border: 2px solid #ccc; padding: 12px; border-radius: 8px; background-color: #f9f9f9;"> 
     <strong>Objective</strong> 
     <p> 
-        Investigate, characterize, and validate behavioral and physiological markers—derived from tremor analysis, gait monitoring, and eye-movement tracking—that correlate with the onset and progression of Alzheimer’s and Parkinson’s diseases. The goal is to establish a scientific foundation for a non-invasive, in-home monitoring system capable of distinguishing between normal age-related changes and true neurodegenerative progression. 
+        Investigate, characterize, and validate behavioral and physiological markers, derived from tremor analysis, gait monitoring, and eye-movement tracking, that correlate with the onset and progression of Alzheimer’s and Parkinson’s diseases. The goal is to establish a scientific foundation for a non-invasive, in-home monitoring system capable of distinguishing between normal age-related changes and true neurodegenerative progression. 
     </p> 
     <hr> 
     <strong>Rationale</strong> 
@@ -95,7 +95,7 @@ As a part of this club, we try to connect students with labs and professors offe
         Alzheimer’s and Parkinson’s diseases are progressive neurodegenerative disorders that develop long before clinical diagnosis, often after irreversible damage has occurred. Current diagnostic methods rely on in-clinic evaluations and specialized imaging, making continuous monitoring difficult and costly. 
     </p> 
     <p> 
-        A tri-modal home kit—integrating sensors to monitor motor function, ocular behavior, and activity patterns—offers the opportunity for daily, unobtrusive tracking of early disease indicators. However, for such data to be meaningful, it must be interpreted within a robust behavioral and neurophysiological framework. Differentiating between normal movement variability and disease-specific changes is critical to transforming raw sensor outputs into actionable clinical insights. 
+        A tri-modal home kit, integrating sensors to monitor motor function, ocular behavior, and activity patterns, offers the opportunity for daily, unobtrusive tracking of early disease indicators. However, for such data to be meaningful, it must be interpreted within a robust behavioral and neurophysiological framework. Differentiating between normal movement variability and disease-specific changes is critical to transforming raw sensor outputs into actionable clinical insights. 
     </p> 
     <hr> 
     <strong>Research Questions</strong> 
@@ -115,7 +115,7 @@ As a part of this club, we try to connect students with labs and professors offe
             <em>Gait and Posture Characterization:</em> 
             <ul> 
                 <li><em> 
-                    Which gait parameters—such as stride length, step variability, or postural sway—correlate most strongly with cognitive decline and motor deterioration? 
+                    Which gait parameters, such as stride length, step variability, or postural sway, correlate most strongly with cognitive decline and motor deterioration? 
                 </em></li> 
                 <li><em> 
                     Can temporal changes in gait dynamics serve as reliable longitudinal biomarkers for disease progression or medication response? 
@@ -161,12 +161,12 @@ As a part of this club, we try to connect students with labs and professors offe
 <div style="border: 2px solid #ccc; padding: 12px; border-radius: 8px; background-color: #f9f9f9;">        
     <strong>Objective</strong> 
     <p>
-        Investigate and characterize retinal and in-ear biosignatures that correlate with early-stage Alzheimer’s disease (AD). The goal is to establish reliable physiological and electrophysiological markers measurable through a non-invasive, wearable device—enabling early screening and continuous monitoring outside clinical settings.
+        Investigate and characterize retinal and in-ear biosignatures that correlate with early-stage Alzheimer’s disease (AD). The goal is to establish reliable physiological and electrophysiological markers measurable through a non-invasive, wearable device, enabling early screening and continuous monitoring outside clinical settings.
     </p> 
     <hr> 
     <strong>Rationale</strong> 
     <p>
-        Alzheimer’s disease is often diagnosed only after cognitive decline becomes apparent, by which point significant neural degeneration has already occurred. Conventional screening methods—such as PET imaging and cerebrospinal fluid (CSF) assays—are costly, invasive, and inaccessible for large-scale early detection.
+        Alzheimer’s disease is often diagnosed only after cognitive decline becomes apparent, by which point significant neural degeneration has already occurred. Conventional screening methods, such as PET imaging and cerebrospinal fluid (CSF) assays, are costly, invasive, and inaccessible for large-scale early detection.
     </p>
     <p> 
         Evidence suggests that Alzheimer’s pathology extends beyond the brain, manifesting as measurable vascular and neural changes in peripheral regions such as the retina and inner ear. Retinal imaging can reveal amyloid accumulation, microvascular thinning, and altered blood flow patterns, while in-ear biosensing (EEG or hemodynamic) can detect neural activity disruptions associated with cognitive impairment. Together, these modalities may provide a powerful, non-invasive biomarker set for early Alzheimer’s detection.
@@ -178,7 +178,7 @@ As a part of this club, we try to connect students with labs and professors offe
             <em>Biomarker Identification and Validation:</em> 
             <ul> 
                 <li><em> 
-                    Which retinal features—such as vessel tortuosity, layer thickness, or amyloid deposition—correlate most strongly with known Alzheimer’s stages and cognitive decline?
+                    Which retinal features, such as vessel tortuosity, layer thickness, or amyloid deposition, correlate most strongly with known Alzheimer’s stages and cognitive decline?
                 </em></li> 
                 <li><em> 
                     What EEG or bioelectrical patterns detectable via the ear (e.g., auditory evoked potentials, alpha/theta power ratios) reflect Alzheimer’s-related neurodegeneration? 
@@ -222,7 +222,7 @@ As a part of this club, we try to connect students with labs and professors offe
     <hr> 
     <strong>Desired Research Outcomes</strong> 
     <p> 
-        Build a comprehensive mapping between retinal/EEG-derived biomarkers and Alzheimer’s pathology. This research will form the foundation for the next phase of device development—transforming raw biosensor data into clinically meaningful indicators. The ultimate outcome is a validated, cost-effective, non-invasive screening method that identifies Alzheimer’s risk and progression, enabling earlier intervention, improved patient outcomes, and easier monitoring of disease progression.
+        Build a comprehensive mapping between retinal/EEG-derived biomarkers and Alzheimer’s pathology. This research will form the foundation for the next phase of device development, transforming raw biosensor data into clinically meaningful indicators. The ultimate outcome is a validated, cost-effective, non-invasive screening method that identifies Alzheimer’s risk and progression, enabling earlier intervention, improved patient outcomes, and easier monitoring of disease progression.
     </p> 
     <hr> 
     <strong>Learn More About the Project</strong> 
@@ -243,7 +243,7 @@ As a part of this club, we try to connect students with labs and professors offe
         Lung cancer remains one of the deadliest cancers due to late-stage diagnosis, when treatment options are limited and survival rates drop below 20%. Prior studies suggest that specific VOCs in exhaled breath reflect metabolic alterations linked to early tumorigenesis, changes that can appear months to years before imaging detects a lesion.
     </p>
     <p>
-        While gas chromatography–mass spectrometry (GC-MS) provides the gold-standard precision for VOC analysis, its cost, complexity, and laboratory dependence limit scalability. The long-term vision is to translate GC-MS-level insights into a portable diagnostic platform, but at this stage, the focus is on identifying, validating, and modeling the relevant VOC patterns.
+        While gas chromatography-mass spectrometry (GC-MS) provides the gold-standard precision for VOC analysis, its cost, complexity, and laboratory dependence limit scalability. The long-term vision is to translate GC-MS-level insights into a portable diagnostic platform, but at this stage, the focus is on identifying, validating, and modeling the relevant VOC patterns.
     </p>
     <hr>
     <strong>Research Questions</strong>
@@ -297,7 +297,7 @@ As a part of this club, we try to connect students with labs and professors offe
 <div style="border: 2px solid #ccc; padding: 12px; border-radius: 8px; background-color: #f9f9f9;"> 
     <strong>Objective</strong> 
     <p> 
-        Develop an AI-powered multilingual communication platform capable of seamless, contextually accurate translation between text and speech across multiple languages. The goal is to enable effective and reliable communication in both everyday and high-stakes contexts—particularly within healthcare settings where linguistic precision is critical to patient safety and understanding. 
+        Develop an AI-powered multilingual communication platform capable of seamless, contextually accurate translation between text and speech across multiple languages. The goal is to enable effective and reliable communication in both everyday and high-stakes contexts, particularly within healthcare settings where linguistic precision is critical to patient safety and understanding. 
     </p> 
     <hr> 
     <strong>Rationale</strong> 
@@ -358,7 +358,7 @@ As a part of this club, we try to connect students with labs and professors offe
     <hr> 
     <strong>Desired Research Outcomes</strong> 
     <p> 
-        Establish a comprehensive linguistic and cultural understanding framework that enhances AI-driven translation accuracy and empathy across languages. The research will produce language datasets, contextual modeling techniques, and validation protocols specifically tuned for medical and interpersonal communication. Ultimately, the outcome will guide the development of a multilingual app capable of bridging linguistic divides in healthcare and beyond, ensuring that every user—patient, provider, or community member—can communicate effectively and safely. 
+        Establish a comprehensive linguistic and cultural understanding framework that enhances AI-driven translation accuracy and empathy across languages. The research will produce language datasets, contextual modeling techniques, and validation protocols specifically tuned for medical and interpersonal communication. Ultimately, the outcome will guide the development of a multilingual app capable of bridging linguistic divides in healthcare and beyond, ensuring that every user, patient, provider, or community member can communicate effectively and safely. 
     </p> 
     <hr> 
     <strong>Learn More About the Project</strong> 
