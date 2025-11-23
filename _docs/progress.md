@@ -47,8 +47,8 @@ Each section lists the current focus and milestone status for **Research → Har
     <th style="text-align:left;">Category</th>
     <th style="text-align:left;">Status</th>
   </tr>
-  <tr><td>Research / Biology</td><td><div style="background-color:#c6f6d5; padding:4px; border-radius:6px; text-align:center;">Complete</div></td></tr>
-  <tr><td>Hardware</td><td><div style="background-color:#c6f6d5; padding:4px; border-radius:6px; text-align:center;">Complete</div></td></tr>
+  <tr><td>Research / Biology</td><td><div style="background-color:#c6f6d5; padding:4px; border-radius:6px; text-align:center;">In&nbsp;Progress</div></td></tr>
+  <tr><td>Hardware</td><td><div style="background-color:#c6f6d5; padding:4px; border-radius:6px; text-align:center;">In&nbsp;Progress</div></td></tr>
   <tr><td>CAD (Enclosures)</td><td><div style="background-color:#fff3b0; padding:4px; border-radius:6px; text-align:center;">In&nbsp;Progress</div></td></tr>
   <tr><td>Firmware (Sensor + SD Logging)</td><td><div style="background-color:#fff3b0; padding:4px; border-radius:6px; text-align:center;">In&nbsp;Progress</div></td></tr>
   <tr><td>AI/ML (Apnea Detection Model)</td><td><div style="background-color:#b3d9ff; padding:4px; border-radius:6px; text-align:center;">Planned</div></td></tr>
@@ -70,7 +70,7 @@ Each section lists the current focus and milestone status for **Research → Har
     <th style="text-align:left;">Category</th>
     <th style="text-align:left;">Status</th>
   </tr>
-  <tr><td>Research / Biology</td><td><div style="background-color:#fff3b0; padding:4px; border-radius:6px; text-align:center;">In&nbsp;Progress</div></td></tr>
+  <tr><td>Research / Biology</td><td><div style="background-color:#fff3b0; padding:4px; border-radius:6px; text-align:center;">Complete</div></td></tr>
   <tr><td>Hardware (Sensor Selection + Flow System)</td><td><div style="background-color:#fff3b0; padding:4px; border-radius:6px; text-align:center;">In&nbsp;Progress</div></td></tr>
   <tr><td>CAD (Chamber + Mouthpieces)</td><td><div style="background-color:#b3d9ff; padding:4px; border-radius:6px; text-align:center;">Planned</div></td></tr>
   <tr><td>Firmware (Sensor Calibration + Data Logging)</td><td><div style="background-color:#b3d9ff; padding:4px; border-radius:6px; text-align:center;">Planned</div></td></tr>
@@ -93,7 +93,7 @@ Each section lists the current focus and milestone status for **Research → Har
     <th style="text-align:left;">Status</th>
   </tr>
   <tr><td>Research / Biology</td><td><div style="background-color:#c6f6d5; padding:4px; border-radius:6px; text-align:center;">Complete</div></td></tr>
-  <tr><td>Hardware (Sensors + Schematics)</td><td><div style="background-color:#c6f6d5; padding:4px; border-radius:6px; text-align:center;">Complete</div></td></tr>
+  <tr><td>Hardware (Sensors + Schematics)</td><td><div style="background-color:#c6f6d5; padding:4px; border-radius:6px; text-align:center;">In&nbsp;Progress</div></td></tr>
   <tr><td>CAD (Wristband + Visor Design)</td><td><div style="background-color:#fff3b0; padding:4px; border-radius:6px; text-align:center;">In&nbsp;Progress</div></td></tr>
   <tr><td>Firmware (Multi-Sensor Data Collection)</td><td><div style="background-color:#fff3b0; padding:4px; border-radius:6px; text-align:center;">In&nbsp;Progress</div></td></tr>
   <tr><td>AI/ML (Feature Extraction + Mock Testing)</td><td><div style="background-color:#fff3b0; padding:4px; border-radius:6px; text-align:center;">In&nbsp;Progress</div></td></tr>
