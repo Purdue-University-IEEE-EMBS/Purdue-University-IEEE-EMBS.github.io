@@ -166,7 +166,7 @@ This part of the guide walks you through installing TensorFlow Lite Micro on Ard
     - You should see numbers changing.
 ![Serial Monitor](/assets/images/ai-serial_monitor.png)
  - Switch to **Serial Plotter** to visualize it.
-    - Values rise when you flex and fall when relaxed.
+    - Values rise when you speak and fall when silent.
     - If no change, ensure your device is paired and connected via BLE.
 ![Serial Plotter](/assets/images/serial_plotter.png)
 
