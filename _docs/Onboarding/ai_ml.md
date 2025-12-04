@@ -147,14 +147,22 @@ This part of the guide walks you through installing TensorFlow Lite Micro on Ard
 </div>
 
 
-**Set Up uMyo BLE EMG Sensor**
-- In Arduino IDE, install uMyo_BLE library
-![uMyo_BLE Library](/assets/images/uMyo_BLE-library.png)
-- In Arduino IDE, install ArduinoBLE library
-![arduinoBLE Library](/assets/images/arduino-ble.png)
-- Turn on the uMyo sensor (press the button until it flashes blue).
-- Open example: **File → Examples → uMyo_BLE → uMyo_Basic**
-- Open **Serial Monitor** and flex your muscle 
+**Set Up Mircophone Sensor Sensor**
+- Wire the microphone to the arduino
+- Plug arduino and microphone into breadboard
+- Wire the 3.3V pin on the arduino to the red breadboard railing
+- Wire the ground pin on the arduino to the blue breadboard railing
+- Wire the A0 pin on the arduino to the OUT pin on the microphone (MAX4466)
+- Wire the VCC pin on the microphone to the red breadboard railing
+- Wire the GND pin on the microphone to the blue breadboard railing
+- Here is a completed wiring of the devices:
+![Serial Monitor](/assets/images/ai_microphone.png)
+- Upload save the mic input folder to your computer
+- Open the mic_input.ino file
+- Plug in the USB cord from your computer to the arduino if you havent already
+- Upload the code to the arduino
+- Open Serial Monitor
+- Speak and hold the same volume into the microphone
     - You should see numbers changing.
 ![Serial Monitor](/assets/images/ai-serial_monitor.png)
  - Switch to **Serial Plotter** to visualize it.
@@ -169,7 +177,7 @@ This part of the guide walks you through installing TensorFlow Lite Micro on Ard
 </div>
 
  
-**Collect EMG Data**
+**Collect Microphone Data**
 - Paste the code from the embs_data_collection.ino file in the embs_ml_training folder into the sketch and upload.
 - Download [**CoolTerm**](https://coolterm.en.lo4d.com/windows) (free serial monitor):
 ![CoolTerm](/assets/images/coolterm.png)
@@ -181,13 +189,12 @@ This part of the guide walks you through installing TensorFlow Lite Micro on Ard
 - Click Connect,  you should see live readings.
 ![Connect](/assets/images/ai-connect.png)
 - Press Ctrl + R to start recording data and Press Ctrl + R again to stop recording
-- Flex, rest, and pinch separately for 15–30 seconds each:
+- Flex and rest separately for 15–30 seconds each:
 - Turn off uMyo in between recordings to save battery.
 <div style="border: 2px solid #ccc; padding: 12px; border-radius: 8px; background-color: #f9f9f9;">
-  <strong>Save 3 files in your embs_ml_training folder:</strong>
+  <strong>Save 2 files in your embs_ml_training folder:</strong>
   <ul>
     <li><em>emg_rest.txt</em></li>
-    <li><em>emg_pinch.txt</em></li>
     <li><em>emg_flex.txt</em></li>
   </ul>
 </div>

@@ -86,22 +86,27 @@ CAD Designers ensure our hardware and firmware work is usable in the real world:
 ***
 
 ### **Assignment 1 - Needs To Be Done In Person**
-1. Sketch a quick paper concept of casing for the sleep apnea detection system:
-    - ***(In Person)*** Come to the front of the room where the device is and take a video or notes on the size of the parts. 
-    - ***(Not In Person)*** Look at the following parts on GrabCad for an idea of the shape and then look at the datasheets for their dimensions:
-        - MAX30102 Pulse Oximeter
-        - SparkFun Single Lead Heart Rate Monitor - AD8232
-        - WWZMDiB MAX4466 Electret Microphone Sensor
-<div style="border: 2px solid #ccc; padding: 12px; border-radius: 8px; background-color: #f9f9f9;">
-  <strong>Keep in mind:</strong>
-  <ul>
-    <li><em>The rules and practices from the wearable design articles that pertain to the casing.</em></li>
-    <li><em>The wire hole placements on each device — we want to leave a gap in the design for them to flow.</em></li>
-  </ul>
-</div>
-2. Take a picture and add the picture to the second file drop in this [**form**](https://docs.google.com/forms/d/e/1FAIpQLSdrSeutXq7Hpz4aa2aznv1UOB-qJhJ0FKKJ_RhaWtKU6TVlsg/viewform?usp=header)
-3. Submit the form
-
+- Sketch a quick paper concept of casing for the sleep apnea detection system
+    - Sketch 1: the ideal placements of the parts on a human body model
+        - Consider:
+            - Where the sensor should be placed to get the most accurate data
+            - Where would it be comfortable
+            - If the sensor has wires to retrieve data, we can place the sensor far from the data input point, to somewhere more comfortable.
+    - Sketch 2:  Sketch the casings for each part individually
+        - Consider:
+            - The rules and practices from the wearable design articles that pertain to the casing.
+            - The wire hole placements on each device, we want to leave a gap in the design for them to flow. 
+- Look at the parts on GrabCad for an idea of the shape and then look at the datasheets for their dimensions.
+- Main Parts
+    - Arduino Nano 33 BLE Sense Rev2
+    - MAX30102 Pulse Oximeter
+    - SparkFun Single Lead Heart Rate Monitor - AD8232
+    - WWZMDiB MAX4466 Electret Microphone Sensor
+- Keep in mind:
+    - The rules and practices from the wearable design articles that pertain to the casing.
+    - The wire hole placements on each device, we want to leave a gap in the design for them to flow. 
+    - Take a picture and add the picture to the second file drop in the same [**form**](https://docs.google.com/forms/d/e/1FAIpQLSdrSeutXq7Hpz4aa2aznv1UOB-qJhJ0FKKJ_RhaWtKU6TVlsg/viewform?usp=header)
+    - Submit the form
 ***
 
 ### **Assignment 2**
