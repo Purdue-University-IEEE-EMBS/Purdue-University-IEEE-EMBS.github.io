@@ -65,8 +65,10 @@ The AI/ML role focuses on transforming raw biomedical sensor data (from Arduino 
 **Feature Extraction (turning raw data into inputs for ML)**
 - [**Feature Extraction from Time Series – sktime Documentation**](https://www.sktime.net/en/v0.27.1/examples/transformation/feature_extraction_with_tsfresh.html)
     - Shows how to compute time-domain (mean, variance, zero crossings) and frequency-domain (FFT, spectrogram) features.
-- [**Harvard: Fourier Transforms and Signal Processing Notes**](https://scholar.harvard.edu/files/schwartz/files/lecture8-fouriertransforms.pdf)
-    - Clear written notes on FFTs, spectrograms, and their use in biosignal analysis.
+- [**Fourier Transformations**](https://www.youtube.com/watch?v=1HhcfGDBZGs)
+    - Fourier Transformation Video
+- [**Signal Processing And AI**](https://www.geeksforgeeks.org/artificial-intelligence/signal-processing-and-artificial-intelligence-ai/)
+    - Article on signal processing and its key concepts.
 
 
 **ML Frameworks (training + testing models)**
