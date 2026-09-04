@@ -3,9 +3,9 @@ title: Leadership & Contacts
 nav_order: 6
 ---
 
-# Leadership
+# Executive Board
 
-<!-- <div style="display: flex; flex-wrap: wrap; gap: 2rem; justify-content: center;"> -->
+---
 
 <div style="display: flex; gap: 4rem; justify-content: center; flex-wrap: wrap; width: 100%;">
 
@@ -25,7 +25,7 @@ nav_order: 6
     </div>
     <h3>Rayna Huang</h3>
     <p><strong>Treasurer</strong><br>
-    First-Year Engineering (Electrical), Sophomore<br>
+    Electrical Engineering, Sophomore<br>
     <a href="mailto:huan2351@purdue.edu">huan2351@purdue.edu</a></p>
   </div>
 
@@ -49,7 +49,3 @@ nav_order: 6
   </div>
 
 </div>
-
----
- 
-🌐 **Website:** [purdue-university-ieee-embs.github.io](https://purdue-university-ieee-embs.github.io)
