@@ -7,7 +7,7 @@ nav_order: 6
 
 ---
 
-<div style="display: flex; gap: 4rem; justify-content: center; flex-wrap: wrap; width: 100%;">
+<div style="display: flex; gap: 2rem; justify-content: center; flex-wrap: wrap; width: 100%;">
 
   <div style="width: 250px; text-align: center;">
     <div style="width: 150px; aspect-ratio: 4 / 5; overflow: hidden; border-radius: 10px; margin: 0 auto;">
